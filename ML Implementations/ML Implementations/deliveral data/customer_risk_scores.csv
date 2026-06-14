@@ -1,0 +1,1001 @@
+loyalty_number,churn_probability,risk_level,top_risk_driver,recommended_action
+768012,0.014003172,Low,consecutive_inactive_months,Redemption reminder
+471018,0.99574924,High,consecutive_inactive_months,Bonus miles offer
+103862,0.00047757948,Low,consecutive_inactive_months,Redemption reminder
+823048,0.005739654,Low,consecutive_inactive_months,Route-specific discount
+675879,0.005759684,Low,consecutive_inactive_months,Redemption reminder
+827194,0.08933313,Low,consecutive_inactive_months,Redemption reminder
+264064,0.9967321,High,consecutive_inactive_months,Bonus miles offer
+787472,0.00044650005,Low,consecutive_inactive_months,Redemption reminder
+559304,0.9766119,High,consecutive_inactive_months,Bonus miles offer
+119488,0.002770257,Low,consecutive_inactive_months,Regular engagement
+138746,0.00014472446,Low,consecutive_inactive_months,Route-specific discount
+974114,0.0004167411,Low,consecutive_inactive_months,Redemption reminder
+412854,0.0001172477,Low,consecutive_inactive_months,Redemption reminder
+886127,0.0046863332,Low,active_month_count,Route-specific discount
+751820,0.01056479,Low,consecutive_inactive_months,Redemption reminder
+122958,0.00066163467,Low,consecutive_inactive_months,Redemption reminder
+429460,0.9951514,High,consecutive_inactive_months,Bonus miles offer
+909134,0.0002090957,Low,consecutive_inactive_months,Redemption reminder
+536021,0.0007152437,Low,consecutive_inactive_months,Regular engagement
+882024,0.0003811215,Low,consecutive_inactive_months,Regular engagement
+561092,0.0007837898,Low,consecutive_inactive_months,Redemption reminder
+830931,0.006544068,Low,consecutive_inactive_months,Redemption reminder
+938981,0.035619948,Low,consecutive_inactive_months,Redemption reminder
+979309,0.0005135608,Low,consecutive_inactive_months,Regular engagement
+585629,0.0013190485,Low,consecutive_inactive_months,Redemption reminder
+384146,0.0054137586,Low,consecutive_inactive_months,Redemption reminder
+474174,0.9792915,High,consecutive_inactive_months,Bonus miles offer
+625870,0.00031243498,Low,consecutive_inactive_months,Redemption reminder
+589840,0.001114089,Low,consecutive_inactive_months,Regular engagement
+958243,0.00040784306,Low,consecutive_inactive_months,Redemption reminder
+557752,0.0026561425,Low,consecutive_inactive_months,Regular engagement
+101945,0.0006939694,Low,consecutive_inactive_months,Redemption reminder
+395460,0.00036495118,Low,consecutive_inactive_months,Redemption reminder
+413282,0.00046902924,Low,consecutive_inactive_months,Redemption reminder
+610946,0.00034868537,Low,consecutive_inactive_months,Redemption reminder
+703338,0.0006479202,Low,consecutive_inactive_months,Onboarding campaign
+990204,0.00014466568,Low,consecutive_inactive_months,Redemption reminder
+721984,0.00430806,Low,consecutive_inactive_months,Route-specific discount
+307233,0.62731606,Medium,consecutive_inactive_months,Redemption reminder
+305171,0.001437073,Low,consecutive_inactive_months,Route-specific discount
+932823,0.014700781,Low,consecutive_inactive_months,Redemption reminder
+714555,0.000819508,Low,consecutive_inactive_months,Redemption reminder
+915571,0.00725877,Low,consecutive_inactive_months,Regular engagement
+368292,0.99660325,High,consecutive_inactive_months,Bonus miles offer
+235629,0.0024581288,Low,consecutive_inactive_months,Regular engagement
+754539,0.0010418786,Low,consecutive_inactive_months,Regular engagement
+949175,0.0015482383,Low,consecutive_inactive_months,Redemption reminder
+345014,0.0009953072,Low,consecutive_inactive_months,Redemption reminder
+693256,0.0005337455,Low,consecutive_inactive_months,Redemption reminder
+235872,0.0011965996,Low,consecutive_inactive_months,Redemption reminder
+763520,0.0037768953,Low,consecutive_inactive_months,Route-specific discount
+837646,0.9964864,High,consecutive_inactive_months,Personalized retention campaign
+240362,0.0061816373,Low,active_month_count,Route-specific discount
+485283,0.0015222433,Low,consecutive_inactive_months,Regular engagement
+174996,0.00043888547,Low,consecutive_inactive_months,Redemption reminder
+544569,0.9856771,High,consecutive_inactive_months,Bonus miles offer
+615394,0.00073952647,Low,consecutive_inactive_months,Redemption reminder
+779247,0.0015254224,Low,consecutive_inactive_months,Redemption reminder
+474172,0.99447834,High,consecutive_inactive_months,Bonus miles offer
+372261,0.0012762308,Low,consecutive_inactive_months,Redemption reminder
+524483,0.00024757066,Low,consecutive_inactive_months,Redemption reminder
+417584,0.007454467,Low,consecutive_inactive_months,Redemption reminder
+534794,0.9969291,High,consecutive_inactive_months,Bonus miles offer
+809728,0.94052917,High,active_month_count,Bonus miles offer
+205785,0.0020556326,Low,consecutive_inactive_months,Regular engagement
+589580,0.020789064,Low,consecutive_inactive_months,Redemption reminder
+399418,0.00075477996,Low,consecutive_inactive_months,Redemption reminder
+217616,0.0015691806,Low,consecutive_inactive_months,Route-specific discount
+774724,0.00020203214,Low,consecutive_inactive_months,Regular engagement
+135250,0.0001927335,Low,consecutive_inactive_months,Regular engagement
+139863,0.0018615243,Low,consecutive_inactive_months,Redemption reminder
+217695,0.0050405357,Low,flight_activity_trend,Redemption reminder
+430521,0.9922924,High,consecutive_inactive_months,Onboarding campaign
+333502,0.00080005766,Low,consecutive_inactive_months,Redemption reminder
+370486,0.0003594951,Low,consecutive_inactive_months,Regular engagement
+930718,0.008935877,Low,consecutive_inactive_months,Redemption reminder
+193662,0.0012304989,Low,consecutive_inactive_months,Redemption reminder
+221388,0.002549599,Low,consecutive_inactive_months,Redemption reminder
+387129,0.00058247155,Low,consecutive_inactive_months,Redemption reminder
+111255,0.0072565884,Low,consecutive_inactive_months,Redemption reminder
+286114,0.0033144066,Low,consecutive_inactive_months,Route-specific discount
+367961,0.00039148325,Low,consecutive_inactive_months,Redemption reminder
+602900,0.002895945,Low,consecutive_inactive_months,Redemption reminder
+295217,0.014752458,Low,active_month_count,Route-specific discount
+495027,0.0012338656,Low,consecutive_inactive_months,Route-specific discount
+230311,0.00018863838,Low,consecutive_inactive_months,Redemption reminder
+353128,0.0014697375,Low,consecutive_inactive_months,Redemption reminder
+835796,0.016395148,Low,consecutive_inactive_months,Redemption reminder
+297869,0.0009653465,Low,consecutive_inactive_months,Route-specific discount
+679859,0.012939698,Low,consecutive_inactive_months,Regular engagement
+476875,0.010311569,Low,active_month_count,Route-specific discount
+685314,0.00019227444,Low,consecutive_inactive_months,Route-specific discount
+277910,0.0002949639,Low,consecutive_inactive_months,Redemption reminder
+161373,0.99686974,High,consecutive_inactive_months,Personalized retention campaign
+702588,0.00031025655,Low,consecutive_inactive_months,Redemption reminder
+105145,0.9953471,High,consecutive_inactive_months,Bonus miles offer
+781463,0.0013189887,Low,consecutive_inactive_months,Redemption reminder
+845945,0.00032475893,Low,consecutive_inactive_months,Redemption reminder
+357149,0.008421638,Low,active_month_count,Route-specific discount
+484194,0.00083311315,Low,consecutive_inactive_months,Route-specific discount
+662268,0.00024429243,Low,consecutive_inactive_months,Redemption reminder
+438936,0.0016203475,Low,consecutive_inactive_months,Redemption reminder
+603775,0.0003629852,Low,consecutive_inactive_months,Redemption reminder
+995091,0.0015534194,Low,consecutive_inactive_months,Regular engagement
+335839,0.0023013975,Low,consecutive_inactive_months,Redemption reminder
+430569,0.00088176737,Low,consecutive_inactive_months,Redemption reminder
+873458,0.0011942039,Low,consecutive_inactive_months,Redemption reminder
+472726,0.99775606,High,consecutive_inactive_months,Personalized retention campaign
+119837,0.00017484832,Low,consecutive_inactive_months,Redemption reminder
+745336,0.9969302,High,consecutive_inactive_months,Bonus miles offer
+382197,0.9988148,High,consecutive_inactive_months,Bonus miles offer
+205465,0.0011071776,Low,consecutive_inactive_months,Regular engagement
+412902,0.0005515613,Low,consecutive_inactive_months,Redemption reminder
+984636,0.000510572,Low,consecutive_inactive_months,Redemption reminder
+285738,0.994616,High,consecutive_inactive_months,Bonus miles offer
+927943,0.00079037645,Low,consecutive_inactive_months,Redemption reminder
+523394,0.00041688434,Low,consecutive_inactive_months,Redemption reminder
+459999,0.0024579873,Low,consecutive_inactive_months,Route-specific discount
+980651,0.0015377429,Low,consecutive_inactive_months,Route-specific discount
+600820,0.99809045,High,consecutive_inactive_months,Bonus miles offer
+124678,0.02186396,Low,consecutive_inactive_months,Redemption reminder
+366540,0.0037095998,Low,consecutive_inactive_months,Redemption reminder
+106001,0.00094703736,Low,consecutive_inactive_months,Redemption reminder
+355995,0.002028303,Low,consecutive_inactive_months,Redemption reminder
+866815,0.008972559,Low,consecutive_inactive_months,Onboarding campaign
+250380,0.0031685533,Low,consecutive_inactive_months,Route-specific discount
+455892,0.013127657,Low,consecutive_inactive_months,Redemption reminder
+543553,0.00068138144,Low,consecutive_inactive_months,Onboarding campaign
+766927,0.003059716,Low,consecutive_inactive_months,Redemption reminder
+418990,0.0015206852,Low,consecutive_inactive_months,Redemption reminder
+189146,0.9974711,High,consecutive_inactive_months,Bonus miles offer
+816881,0.0050571547,Low,consecutive_inactive_months,Regular engagement
+608739,0.0018940325,Low,consecutive_inactive_months,Redemption reminder
+410460,0.9963744,High,consecutive_inactive_months,Personalized retention campaign
+375511,0.021236392,Low,consecutive_inactive_months,Redemption reminder
+531201,0.9953003,High,consecutive_inactive_months,Bonus miles offer
+513708,0.0010951338,Low,consecutive_inactive_months,Regular engagement
+340479,0.00045738963,Low,consecutive_inactive_months,Redemption reminder
+334003,0.00026637703,Low,consecutive_inactive_months,Regular engagement
+245066,0.008183276,Low,consecutive_inactive_months,Redemption reminder
+896790,0.004945709,Low,consecutive_inactive_months,Redemption reminder
+437810,0.0011154233,Low,consecutive_inactive_months,Regular engagement
+418090,0.0008905826,Low,consecutive_inactive_months,Regular engagement
+549132,0.00048337792,Low,consecutive_inactive_months,Regular engagement
+229204,0.0006307638,Low,consecutive_inactive_months,Regular engagement
+382045,0.99647176,High,consecutive_inactive_months,Personalized retention campaign
+981581,0.00028816462,Low,consecutive_inactive_months,Redemption reminder
+526064,0.0114670405,Low,consecutive_inactive_months,Route-specific discount
+990933,0.00068161136,Low,consecutive_inactive_months,Redemption reminder
+501278,0.0004825309,Low,consecutive_inactive_months,Regular engagement
+533766,0.00022701589,Low,consecutive_inactive_months,Route-specific discount
+712062,0.0010770654,Low,consecutive_inactive_months,Route-specific discount
+344199,0.00019663847,Low,consecutive_inactive_months,Redemption reminder
+683791,0.00033961894,Low,consecutive_inactive_months,Redemption reminder
+538902,0.009578456,Low,consecutive_inactive_months,Route-specific discount
+134279,0.0004609652,Low,consecutive_inactive_months,Regular engagement
+501363,0.00021946756,Low,consecutive_inactive_months,Redemption reminder
+541898,0.0026126353,Low,consecutive_inactive_months,Route-specific discount
+709920,0.00032627682,Low,consecutive_inactive_months,Regular engagement
+343377,0.0003233042,Low,consecutive_inactive_months,Redemption reminder
+450621,0.00066746236,Low,consecutive_inactive_months,Regular engagement
+418281,0.009923944,Low,consecutive_inactive_months,Regular engagement
+715015,0.0008015915,Low,consecutive_inactive_months,Redemption reminder
+273357,0.00683659,Low,consecutive_inactive_months,Redemption reminder
+606026,0.033699818,Low,consecutive_inactive_months,Redemption reminder
+501030,0.0007938142,Low,consecutive_inactive_months,Route-specific discount
+703882,0.9949988,High,consecutive_inactive_months,Bonus miles offer
+583648,0.00017325133,Low,consecutive_inactive_months,Regular engagement
+500455,0.008751095,Low,active_month_count,Redemption reminder
+778426,0.004612325,Low,consecutive_inactive_months,Route-specific discount
+272812,0.00069981813,Low,consecutive_inactive_months,Redemption reminder
+836343,0.006907546,Low,consecutive_inactive_months,Route-specific discount
+407945,0.0007718649,Low,consecutive_inactive_months,Redemption reminder
+366719,0.001258003,Low,consecutive_inactive_months,Regular engagement
+565041,0.00047865784,Low,consecutive_inactive_months,Redemption reminder
+223684,0.01233922,Low,consecutive_inactive_months,Onboarding campaign
+551300,0.00044158954,Low,consecutive_inactive_months,Redemption reminder
+686223,0.017584017,Low,consecutive_inactive_months,Redemption reminder
+498644,0.0004287811,Low,consecutive_inactive_months,Redemption reminder
+256147,0.00735545,Low,consecutive_inactive_months,Redemption reminder
+425854,0.9646217,High,consecutive_inactive_months,Bonus miles offer
+743001,0.0006811101,Low,consecutive_inactive_months,Route-specific discount
+981343,0.00031176428,Low,consecutive_inactive_months,Redemption reminder
+101876,0.9859265,High,consecutive_inactive_months,Bonus miles offer
+797685,0.0009995569,Low,consecutive_inactive_months,Regular engagement
+228984,0.0002242164,Low,consecutive_inactive_months,Regular engagement
+469684,0.0003468104,Low,consecutive_inactive_months,Redemption reminder
+573661,0.0006740116,Low,consecutive_inactive_months,Regular engagement
+848248,0.0025195924,Low,consecutive_inactive_months,Redemption reminder
+518533,0.00088383874,Low,consecutive_inactive_months,Regular engagement
+828776,0.00025193486,Low,consecutive_inactive_months,Route-specific discount
+401858,0.9951984,High,consecutive_inactive_months,Bonus miles offer
+504715,0.0016250096,Low,consecutive_inactive_months,Redemption reminder
+347932,0.001564578,Low,consecutive_inactive_months,Redemption reminder
+400478,0.99709797,High,consecutive_inactive_months,Personalized retention campaign
+576716,0.00053926837,Low,consecutive_inactive_months,Redemption reminder
+753473,0.0006070834,Low,consecutive_inactive_months,Redemption reminder
+894340,0.0013996256,Low,consecutive_inactive_months,Redemption reminder
+730742,0.00055678684,Low,consecutive_inactive_months,Route-specific discount
+260685,0.019262776,Low,consecutive_inactive_months,Redemption reminder
+272944,0.00039710462,Low,consecutive_inactive_months,Regular engagement
+735605,0.0025454247,Low,consecutive_inactive_months,Redemption reminder
+508115,0.009035573,Low,consecutive_inactive_months,Redemption reminder
+644786,0.00041805257,Low,consecutive_inactive_months,Redemption reminder
+621940,0.056376286,Low,active_month_count,Regular engagement
+798248,0.0013997449,Low,consecutive_inactive_months,Redemption reminder
+383108,0.00037472183,Low,consecutive_inactive_months,Route-specific discount
+263707,0.037972726,Low,flight_activity_trend,Route-specific discount
+635249,0.0004576223,Low,consecutive_inactive_months,Regular engagement
+539673,0.9907912,High,consecutive_inactive_months,Bonus miles offer
+421855,0.99737835,High,consecutive_inactive_months,Personalized retention campaign
+444684,0.0007644402,Low,consecutive_inactive_months,Redemption reminder
+905213,0.010839396,Low,active_month_count,Redemption reminder
+683361,0.00040496144,Low,consecutive_inactive_months,Regular engagement
+403361,0.005738558,Low,consecutive_inactive_months,Route-specific discount
+724818,0.0018319399,Low,consecutive_inactive_months,Redemption reminder
+603248,0.9970872,High,consecutive_inactive_months,Bonus miles offer
+608370,0.0016197438,Low,consecutive_inactive_months,Regular engagement
+123094,0.0038082371,Low,consecutive_inactive_months,Route-specific discount
+884088,0.0013798112,Low,consecutive_inactive_months,Redemption reminder
+687748,0.14147003,Low,consecutive_inactive_months,Route-specific discount
+785185,0.0006301927,Low,consecutive_inactive_months,Regular engagement
+265297,0.001004302,Low,consecutive_inactive_months,Regular engagement
+237984,0.0006406594,Low,consecutive_inactive_months,Redemption reminder
+224384,0.0014248107,Low,consecutive_inactive_months,Redemption reminder
+852392,0.011684637,Low,active_month_count,Route-specific discount
+252341,0.023546288,Low,consecutive_inactive_months,Redemption reminder
+611765,0.0009103037,Low,consecutive_inactive_months,Regular engagement
+670817,0.0031926243,Low,consecutive_inactive_months,Redemption reminder
+421497,0.0007277081,Low,consecutive_inactive_months,Regular engagement
+830547,0.00043567354,Low,consecutive_inactive_months,Regular engagement
+734192,0.009086012,Low,active_month_count,Redemption reminder
+430880,0.003049809,Low,consecutive_inactive_months,Redemption reminder
+293531,0.00025002865,Low,consecutive_inactive_months,Regular engagement
+101581,0.00036432166,Low,consecutive_inactive_months,Regular engagement
+416124,0.0049856585,Low,consecutive_inactive_months,Redemption reminder
+602176,0.9888601,High,consecutive_inactive_months,Bonus miles offer
+924719,0.012998411,Low,flight_activity_trend,Redemption reminder
+160686,0.00083822134,Low,consecutive_inactive_months,Redemption reminder
+850418,0.00053916685,Low,consecutive_inactive_months,Redemption reminder
+947876,0.0009292796,Low,consecutive_inactive_months,Redemption reminder
+528074,0.9945856,High,consecutive_inactive_months,Bonus miles offer
+717700,0.00041394756,Low,consecutive_inactive_months,Redemption reminder
+914255,0.99588686,High,consecutive_inactive_months,Bonus miles offer
+947467,0.00033465103,Low,consecutive_inactive_months,Redemption reminder
+192177,0.0004669391,Low,consecutive_inactive_months,Redemption reminder
+645265,0.0028015305,Low,consecutive_inactive_months,Regular engagement
+885007,0.00034527443,Low,consecutive_inactive_months,Redemption reminder
+381786,0.00042912705,Low,consecutive_inactive_months,Onboarding campaign
+553567,0.9972257,High,consecutive_inactive_months,Bonus miles offer
+995693,0.00031427643,Low,consecutive_inactive_months,Regular engagement
+541078,0.0010381809,Low,consecutive_inactive_months,Route-specific discount
+120046,0.0022200097,Low,consecutive_inactive_months,Regular engagement
+578837,0.013855913,Low,active_month_count,Route-specific discount
+655614,0.9969528,High,consecutive_inactive_months,Bonus miles offer
+342980,0.0041177613,Low,consecutive_inactive_months,Redemption reminder
+283314,0.9965917,High,consecutive_inactive_months,Bonus miles offer
+735304,0.0027804966,Low,consecutive_inactive_months,Route-specific discount
+277769,0.0049192673,Low,consecutive_inactive_months,Route-specific discount
+232426,0.99726355,High,consecutive_inactive_months,Personalized retention campaign
+140392,0.0025165777,Low,consecutive_inactive_months,Route-specific discount
+487536,0.9975836,High,consecutive_inactive_months,Personalized retention campaign
+119408,0.00056417065,Low,consecutive_inactive_months,Onboarding campaign
+876207,0.002046464,Low,consecutive_inactive_months,Redemption reminder
+765973,0.99623775,High,consecutive_inactive_months,Bonus miles offer
+437269,0.994477,High,consecutive_inactive_months,Bonus miles offer
+971599,0.002950567,Low,consecutive_inactive_months,Route-specific discount
+324557,0.00092707534,Low,consecutive_inactive_months,Redemption reminder
+776830,0.9979122,High,consecutive_inactive_months,Personalized retention campaign
+279409,0.00034442524,Low,consecutive_inactive_months,Regular engagement
+654578,0.0002740264,Low,consecutive_inactive_months,Redemption reminder
+692096,0.0048079616,Low,consecutive_inactive_months,Redemption reminder
+686728,0.018034225,Low,consecutive_inactive_months,Redemption reminder
+773261,0.00043948772,Low,consecutive_inactive_months,Regular engagement
+822694,0.0004856754,Low,consecutive_inactive_months,Redemption reminder
+386363,0.00040017406,Low,consecutive_inactive_months,Redemption reminder
+894466,0.00018682423,Low,consecutive_inactive_months,Regular engagement
+274698,0.98448217,High,consecutive_inactive_months,Bonus miles offer
+743510,0.0002785271,Low,consecutive_inactive_months,Regular engagement
+956191,0.0010542435,Low,consecutive_inactive_months,Route-specific discount
+166577,0.04289905,Low,consecutive_inactive_months,Redemption reminder
+141233,0.00028015944,Low,consecutive_inactive_months,Redemption reminder
+417886,0.00033506379,Low,consecutive_inactive_months,Redemption reminder
+555112,0.9959027,High,consecutive_inactive_months,Bonus miles offer
+365816,0.043420695,Low,consecutive_inactive_months,Redemption reminder
+744675,0.0005433192,Low,consecutive_inactive_months,Redemption reminder
+354730,0.99630094,High,consecutive_inactive_months,Bonus miles offer
+279419,0.001954049,Low,consecutive_inactive_months,Redemption reminder
+223946,0.000508273,Low,consecutive_inactive_months,Redemption reminder
+660554,0.0020633384,Low,consecutive_inactive_months,Route-specific discount
+439296,0.0005694477,Low,consecutive_inactive_months,Redemption reminder
+910875,0.0015353156,Low,consecutive_inactive_months,Redemption reminder
+879892,0.00041412242,Low,consecutive_inactive_months,Regular engagement
+696577,0.016748197,Low,flight_activity_trend,Redemption reminder
+807589,0.0011546913,Low,consecutive_inactive_months,Redemption reminder
+823112,0.0018174701,Low,consecutive_inactive_months,Redemption reminder
+605877,0.0026411994,Low,consecutive_inactive_months,Redemption reminder
+957127,0.00051789975,Low,consecutive_inactive_months,Regular engagement
+497494,0.0007595736,Low,consecutive_inactive_months,Regular engagement
+395121,0.018449515,Low,active_month_count,Route-specific discount
+574560,0.994701,High,consecutive_inactive_months,Bonus miles offer
+883349,0.9961588,High,consecutive_inactive_months,Bonus miles offer
+591576,0.99576783,High,consecutive_inactive_months,Bonus miles offer
+428919,0.014302725,Low,consecutive_inactive_months,Redemption reminder
+763061,0.99630886,High,consecutive_inactive_months,Bonus miles offer
+149542,0.9962674,High,consecutive_inactive_months,Bonus miles offer
+416620,0.001333208,Low,consecutive_inactive_months,Onboarding campaign
+342958,0.0010707286,Low,consecutive_inactive_months,Regular engagement
+767728,0.0013119589,Low,consecutive_inactive_months,Regular engagement
+796670,0.0021044982,Low,consecutive_inactive_months,Redemption reminder
+294753,0.00031995124,Low,consecutive_inactive_months,Redemption reminder
+342483,0.007420147,Low,consecutive_inactive_months,Redemption reminder
+306288,0.9848251,High,consecutive_inactive_months,Bonus miles offer
+618309,0.002207415,Low,consecutive_inactive_months,Regular engagement
+484733,0.0010173798,Low,consecutive_inactive_months,Regular engagement
+642313,0.9771732,High,consecutive_inactive_months,Bonus miles offer
+713329,0.00024418134,Low,consecutive_inactive_months,Redemption reminder
+645919,0.008227561,Low,consecutive_inactive_months,Redemption reminder
+543978,0.00053085276,Low,consecutive_inactive_months,Redemption reminder
+123928,0.9944488,High,consecutive_inactive_months,Onboarding campaign
+682308,0.0009914492,Low,consecutive_inactive_months,Redemption reminder
+501704,0.0059097917,Low,consecutive_inactive_months,Route-specific discount
+268094,0.027897116,Low,consecutive_inactive_months,Regular engagement
+672103,0.0076472815,Low,flight_activity_trend,Route-specific discount
+518249,0.00040752147,Low,consecutive_inactive_months,Regular engagement
+485397,0.0009371887,Low,consecutive_inactive_months,Redemption reminder
+399982,0.00042164684,Low,consecutive_inactive_months,Regular engagement
+282930,0.0031287041,Low,consecutive_inactive_months,Route-specific discount
+270723,0.00020805898,Low,consecutive_inactive_months,Redemption reminder
+269070,0.0023149587,Low,consecutive_inactive_months,Redemption reminder
+907743,0.0007568496,Low,consecutive_inactive_months,Onboarding campaign
+640244,0.0014379107,Low,consecutive_inactive_months,Redemption reminder
+816593,0.00033239473,Low,consecutive_inactive_months,Redemption reminder
+568286,0.0009638866,Low,consecutive_inactive_months,Redemption reminder
+740762,0.0006072989,Low,consecutive_inactive_months,Redemption reminder
+789421,0.02117387,Low,active_month_count,Route-specific discount
+559233,0.0034871553,Low,consecutive_inactive_months,Onboarding campaign
+527622,0.0011002802,Low,consecutive_inactive_months,Redemption reminder
+755538,0.0033679837,Low,consecutive_inactive_months,Route-specific discount
+646168,0.0011706699,Low,consecutive_inactive_months,Route-specific discount
+249555,0.0011567357,Low,consecutive_inactive_months,Redemption reminder
+102982,0.0024653594,Low,consecutive_inactive_months,Route-specific discount
+704150,0.0017830915,Low,consecutive_inactive_months,Regular engagement
+566033,0.9973308,High,consecutive_inactive_months,Bonus miles offer
+287212,0.001178172,Low,consecutive_inactive_months,Regular engagement
+216652,0.91211236,High,flight_activity_trend,Personalized retention campaign
+747483,0.0006308519,Low,consecutive_inactive_months,Regular engagement
+881198,0.0015121916,Low,consecutive_inactive_months,Redemption reminder
+264234,0.00019482912,Low,consecutive_inactive_months,Redemption reminder
+549612,0.0006428815,Low,consecutive_inactive_months,Redemption reminder
+340934,0.99412173,High,consecutive_inactive_months,Onboarding campaign
+826304,0.00019962918,Low,consecutive_inactive_months,Redemption reminder
+990595,0.000792995,Low,consecutive_inactive_months,Regular engagement
+580324,0.0010991676,Low,consecutive_inactive_months,Regular engagement
+731001,0.004890724,Low,consecutive_inactive_months,Route-specific discount
+660030,0.002477524,Low,consecutive_inactive_months,Redemption reminder
+158560,0.0013223906,Low,consecutive_inactive_months,Regular engagement
+425445,0.0040919757,Low,consecutive_inactive_months,Regular engagement
+465931,0.00071026786,Low,consecutive_inactive_months,Regular engagement
+401336,0.00067220675,Low,consecutive_inactive_months,Route-specific discount
+923268,0.7671827,High,active_month_count,Bonus miles offer
+735846,0.00075586577,Low,consecutive_inactive_months,Redemption reminder
+176611,0.001231095,Low,consecutive_inactive_months,Route-specific discount
+917352,0.7764268,High,active_month_count,Personalized retention campaign
+796508,0.0012705445,Low,consecutive_inactive_months,Regular engagement
+474757,0.99580693,High,consecutive_inactive_months,Bonus miles offer
+315851,0.00039056235,Low,consecutive_inactive_months,Redemption reminder
+481857,0.00066733034,Low,consecutive_inactive_months,Redemption reminder
+527944,0.9971462,High,consecutive_inactive_months,Personalized retention campaign
+543918,0.049933497,Low,consecutive_inactive_months,Redemption reminder
+675106,0.0010091888,Low,consecutive_inactive_months,Redemption reminder
+381717,0.0040827715,Low,consecutive_inactive_months,Route-specific discount
+622171,0.31456026,Low,flight_activity_trend,Onboarding campaign
+697837,0.001215777,Low,consecutive_inactive_months,Redemption reminder
+980856,0.0073130825,Low,consecutive_inactive_months,Redemption reminder
+833569,0.0009401208,Low,consecutive_inactive_months,Route-specific discount
+332983,0.020347096,Low,flight_activity_trend,Route-specific discount
+410921,0.0017296851,Low,consecutive_inactive_months,Redemption reminder
+821379,0.9972257,High,consecutive_inactive_months,Bonus miles offer
+842379,0.010573646,Low,consecutive_inactive_months,Redemption reminder
+363925,0.000449834,Low,consecutive_inactive_months,Route-specific discount
+130368,0.0010198656,Low,consecutive_inactive_months,Redemption reminder
+615439,0.0012179932,Low,consecutive_inactive_months,Redemption reminder
+354438,0.007656464,Low,consecutive_inactive_months,Regular engagement
+428826,0.00038385802,Low,consecutive_inactive_months,Route-specific discount
+444778,0.0003476012,Low,consecutive_inactive_months,Redemption reminder
+121935,0.0009501237,Low,consecutive_inactive_months,Regular engagement
+321557,0.99500245,High,consecutive_inactive_months,Bonus miles offer
+800726,0.0005222691,Low,consecutive_inactive_months,Regular engagement
+794248,0.006536329,Low,consecutive_inactive_months,Redemption reminder
+179719,0.0036022065,Low,consecutive_inactive_months,Regular engagement
+955991,0.0005538371,Low,consecutive_inactive_months,Regular engagement
+384920,0.00042262732,Low,consecutive_inactive_months,Regular engagement
+536567,0.0025168078,Low,consecutive_inactive_months,Redemption reminder
+787172,0.99770784,High,consecutive_inactive_months,Personalized retention campaign
+784570,0.01677026,Low,consecutive_inactive_months,Regular engagement
+111646,0.99492884,High,consecutive_inactive_months,Personalized retention campaign
+679908,0.0020820452,Low,consecutive_inactive_months,Redemption reminder
+189611,0.00031264056,Low,consecutive_inactive_months,Redemption reminder
+287750,0.0057679224,Low,consecutive_inactive_months,Redemption reminder
+512906,0.00039959463,Low,consecutive_inactive_months,Route-specific discount
+627489,0.00085952523,Low,consecutive_inactive_months,Redemption reminder
+883242,0.0023933367,Low,consecutive_inactive_months,Onboarding campaign
+235391,0.0008664956,Low,consecutive_inactive_months,Redemption reminder
+234866,0.00021231327,Low,consecutive_inactive_months,Regular engagement
+695529,0.002748452,Low,consecutive_inactive_months,Redemption reminder
+792383,0.002981326,Low,consecutive_inactive_months,Redemption reminder
+441440,0.0008795107,Low,consecutive_inactive_months,Regular engagement
+455287,0.006203206,Low,consecutive_inactive_months,Onboarding campaign
+810257,0.001801672,Low,consecutive_inactive_months,Redemption reminder
+433812,0.00043110453,Low,consecutive_inactive_months,Regular engagement
+789157,0.005327736,Low,consecutive_inactive_months,Onboarding campaign
+872408,0.99396616,High,consecutive_inactive_months,Onboarding campaign
+654187,0.00077910617,Low,consecutive_inactive_months,Redemption reminder
+420464,0.99682057,High,consecutive_inactive_months,Personalized retention campaign
+605505,0.00071227935,Low,consecutive_inactive_months,Redemption reminder
+461108,0.023156421,Low,consecutive_inactive_months,Onboarding campaign
+756907,0.00079520047,Low,consecutive_inactive_months,Redemption reminder
+331258,0.00036100348,Low,consecutive_inactive_months,Regular engagement
+330464,0.0010786483,Low,consecutive_inactive_months,Redemption reminder
+881142,0.99559635,High,consecutive_inactive_months,Bonus miles offer
+645280,0.010375288,Low,consecutive_inactive_months,Redemption reminder
+422805,0.0014968656,Low,consecutive_inactive_months,Regular engagement
+460711,0.9965258,High,consecutive_inactive_months,Onboarding campaign
+384269,0.0007427276,Low,consecutive_inactive_months,Redemption reminder
+616220,0.00062777445,Low,consecutive_inactive_months,Redemption reminder
+327796,0.0011179482,Low,consecutive_inactive_months,Route-specific discount
+386082,0.8374716,High,flight_activity_trend,Personalized retention campaign
+772397,0.0016572018,Low,consecutive_inactive_months,Redemption reminder
+573332,0.035980154,Low,active_month_count,Redemption reminder
+784113,0.00038727725,Low,consecutive_inactive_months,Redemption reminder
+948327,0.0109994635,Low,consecutive_inactive_months,Onboarding campaign
+991672,0.000317388,Low,consecutive_inactive_months,Redemption reminder
+431899,0.0008103568,Low,consecutive_inactive_months,Redemption reminder
+833701,0.0009393454,Low,flight_activity_trend,Route-specific discount
+708020,0.000593034,Low,consecutive_inactive_months,Redemption reminder
+432451,0.00026458196,Low,consecutive_inactive_months,Redemption reminder
+935504,0.0017053946,Low,consecutive_inactive_months,Route-specific discount
+520094,0.00044319144,Low,consecutive_inactive_months,Route-specific discount
+306110,0.0020308828,Low,consecutive_inactive_months,Route-specific discount
+329358,0.00053549185,Low,consecutive_inactive_months,Route-specific discount
+295147,0.0024113308,Low,consecutive_inactive_months,Redemption reminder
+520321,0.99718934,High,consecutive_inactive_months,Bonus miles offer
+984713,0.003717973,Low,consecutive_inactive_months,Onboarding campaign
+660436,0.0036882928,Low,consecutive_inactive_months,Redemption reminder
+630396,0.0012521758,Low,consecutive_inactive_months,Redemption reminder
+351513,0.997282,High,consecutive_inactive_months,Personalized retention campaign
+328936,0.01243075,Low,active_month_count,Redemption reminder
+540497,0.0026744606,Low,consecutive_inactive_months,Regular engagement
+443967,0.015399755,Low,flight_activity_trend,Redemption reminder
+841677,0.00022382979,Low,consecutive_inactive_months,Regular engagement
+716393,0.0013424621,Low,consecutive_inactive_months,Redemption reminder
+636505,0.0016164276,Low,consecutive_inactive_months,Regular engagement
+157005,0.012220071,Low,consecutive_inactive_months,Redemption reminder
+112522,0.0022061456,Low,consecutive_inactive_months,Redemption reminder
+806030,0.0015137943,Low,consecutive_inactive_months,Regular engagement
+211083,0.00022169396,Low,consecutive_inactive_months,Redemption reminder
+702493,0.99549234,High,consecutive_inactive_months,Bonus miles offer
+919922,0.99721646,High,consecutive_inactive_months,Bonus miles offer
+509513,0.0014705145,Low,consecutive_inactive_months,Redemption reminder
+871203,0.000761002,Low,consecutive_inactive_months,Regular engagement
+890361,0.00085849024,Low,consecutive_inactive_months,Regular engagement
+260106,0.99502975,High,consecutive_inactive_months,Bonus miles offer
+274264,0.0013125326,Low,consecutive_inactive_months,Redemption reminder
+732013,0.00051801256,Low,consecutive_inactive_months,Redemption reminder
+304770,0.00085042097,Low,consecutive_inactive_months,Redemption reminder
+967634,0.001341427,Low,consecutive_inactive_months,Onboarding campaign
+328180,0.042023774,Low,flight_activity_trend,Redemption reminder
+376929,0.99756396,High,consecutive_inactive_months,Personalized retention campaign
+181726,0.0002897031,Low,consecutive_inactive_months,Redemption reminder
+565133,0.00047988334,Low,consecutive_inactive_months,Redemption reminder
+948815,0.0008339158,Low,consecutive_inactive_months,Redemption reminder
+552965,0.0019754234,Low,consecutive_inactive_months,Onboarding campaign
+812042,0.0009023976,Low,consecutive_inactive_months,Regular engagement
+698180,0.0004976905,Low,consecutive_inactive_months,Regular engagement
+695855,0.0012949691,Low,consecutive_inactive_months,Regular engagement
+739933,0.0007678271,Low,consecutive_inactive_months,Route-specific discount
+984824,0.019635154,Low,consecutive_inactive_months,Redemption reminder
+100214,0.0003388749,Low,consecutive_inactive_months,Regular engagement
+670686,0.0010962104,Low,consecutive_inactive_months,Route-specific discount
+440939,0.00025726703,Low,consecutive_inactive_months,Redemption reminder
+706628,0.00036965395,Low,consecutive_inactive_months,Onboarding campaign
+236593,0.0023924136,Low,consecutive_inactive_months,Redemption reminder
+615662,0.009680308,Low,flight_activity_trend,Redemption reminder
+922388,0.00019590021,Low,consecutive_inactive_months,Redemption reminder
+277091,0.0012453088,Low,consecutive_inactive_months,Route-specific discount
+722976,0.00014890719,Low,consecutive_inactive_months,Route-specific discount
+384825,0.003983672,Low,consecutive_inactive_months,Redemption reminder
+568547,0.0049112514,Low,consecutive_inactive_months,Route-specific discount
+110691,0.00038197226,Low,consecutive_inactive_months,Regular engagement
+275442,0.00088844215,Low,consecutive_inactive_months,Regular engagement
+568111,0.00041418165,Low,consecutive_inactive_months,Regular engagement
+641448,0.00049270596,Low,consecutive_inactive_months,Route-specific discount
+724720,0.0076785586,Low,consecutive_inactive_months,Redemption reminder
+655453,0.0008927495,Low,consecutive_inactive_months,Regular engagement
+784945,0.0005743177,Low,consecutive_inactive_months,Redemption reminder
+220358,0.00037210432,Low,consecutive_inactive_months,Redemption reminder
+361816,0.0003805243,Low,consecutive_inactive_months,Redemption reminder
+751612,0.004540983,Low,consecutive_inactive_months,Redemption reminder
+469718,0.0011209025,Low,consecutive_inactive_months,Route-specific discount
+166037,0.0028749206,Low,consecutive_inactive_months,Redemption reminder
+958839,0.012294028,Low,consecutive_inactive_months,Regular engagement
+769731,0.00029657484,Low,consecutive_inactive_months,Route-specific discount
+591731,0.00202701,Low,consecutive_inactive_months,Redemption reminder
+630880,0.0027179902,Low,consecutive_inactive_months,Route-specific discount
+200077,0.00016455032,Low,consecutive_inactive_months,Regular engagement
+184635,0.00030442225,Low,consecutive_inactive_months,Route-specific discount
+881584,0.068755835,Low,consecutive_inactive_months,Redemption reminder
+387705,0.008547235,Low,consecutive_inactive_months,Redemption reminder
+217754,0.002837145,Low,consecutive_inactive_months,Redemption reminder
+613925,0.997974,High,consecutive_inactive_months,Personalized retention campaign
+254683,0.008388438,Low,consecutive_inactive_months,Redemption reminder
+277356,0.99513197,High,consecutive_inactive_months,Bonus miles offer
+497467,0.0016488511,Low,consecutive_inactive_months,Redemption reminder
+290599,0.0013648584,Low,consecutive_inactive_months,Route-specific discount
+811684,0.0010917542,Low,consecutive_inactive_months,Regular engagement
+285938,0.02125537,Low,active_month_count,Redemption reminder
+261582,0.0035667787,Low,consecutive_inactive_months,Redemption reminder
+835491,0.00047134957,Low,consecutive_inactive_months,Regular engagement
+717660,0.00030535183,Low,consecutive_inactive_months,Route-specific discount
+784804,0.0001929707,Low,consecutive_inactive_months,Regular engagement
+639701,0.00032767144,Low,consecutive_inactive_months,Redemption reminder
+519203,0.004375057,Low,consecutive_inactive_months,Regular engagement
+956005,0.0007691445,Low,consecutive_inactive_months,Redemption reminder
+237105,0.0020837926,Low,consecutive_inactive_months,Route-specific discount
+564707,0.00018937729,Low,consecutive_inactive_months,Regular engagement
+423324,0.1079984,Low,active_month_count,Regular engagement
+203809,0.99622107,High,consecutive_inactive_months,Bonus miles offer
+411242,0.9957671,High,consecutive_inactive_months,Bonus miles offer
+511053,0.000888404,Low,consecutive_inactive_months,Route-specific discount
+645742,0.9965174,High,consecutive_inactive_months,Bonus miles offer
+967300,0.99438804,High,consecutive_inactive_months,Personalized retention campaign
+302908,0.00041481448,Low,consecutive_inactive_months,Redemption reminder
+758372,0.00022239577,Low,consecutive_inactive_months,Redemption reminder
+652291,0.00051802717,Low,consecutive_inactive_months,Redemption reminder
+163608,0.000101553014,Low,consecutive_inactive_months,Redemption reminder
+798854,0.0032109655,Low,consecutive_inactive_months,Regular engagement
+988839,0.9951649,High,consecutive_inactive_months,Onboarding campaign
+715462,0.00077688025,Low,consecutive_inactive_months,Redemption reminder
+632793,0.0014511414,Low,consecutive_inactive_months,Regular engagement
+687108,0.99442226,High,consecutive_inactive_months,Bonus miles offer
+586542,0.0020971529,Low,consecutive_inactive_months,Redemption reminder
+199342,0.0004170209,Low,consecutive_inactive_months,Redemption reminder
+485189,0.995194,High,consecutive_inactive_months,Bonus miles offer
+715668,0.99636793,High,consecutive_inactive_months,Bonus miles offer
+660376,0.00039874265,Low,consecutive_inactive_months,Route-specific discount
+203184,0.00033486675,Low,consecutive_inactive_months,Regular engagement
+496325,0.00082132476,Low,consecutive_inactive_months,Redemption reminder
+836475,0.00027364574,Low,consecutive_inactive_months,Redemption reminder
+756791,0.0009895684,Low,consecutive_inactive_months,Redemption reminder
+596179,0.030881088,Low,consecutive_inactive_months,Redemption reminder
+534716,0.0004788385,Low,consecutive_inactive_months,Redemption reminder
+612555,0.005277305,Low,flight_activity_trend,Redemption reminder
+743768,0.00038308685,Low,consecutive_inactive_months,Redemption reminder
+705196,0.0015463098,Low,consecutive_inactive_months,Redemption reminder
+730388,0.00052246754,Low,consecutive_inactive_months,Redemption reminder
+202761,0.99609405,High,consecutive_inactive_months,Bonus miles offer
+399575,0.0019235298,Low,consecutive_inactive_months,Redemption reminder
+259634,0.99247086,High,consecutive_inactive_months,Personalized retention campaign
+158314,0.03890057,Low,distance_last_3_months,Route-specific discount
+465530,0.0003825504,Low,consecutive_inactive_months,Route-specific discount
+613804,0.00024444622,Low,consecutive_inactive_months,Redemption reminder
+188893,0.025450543,Low,consecutive_inactive_months,Redemption reminder
+225077,0.00077818875,Low,consecutive_inactive_months,Route-specific discount
+980198,0.0010055682,Low,consecutive_inactive_months,Route-specific discount
+377322,0.008212657,Low,consecutive_inactive_months,Redemption reminder
+564650,0.0013337593,Low,consecutive_inactive_months,Redemption reminder
+279919,0.0009771521,Low,consecutive_inactive_months,Redemption reminder
+331698,0.008886742,Low,consecutive_inactive_months,Redemption reminder
+600598,0.00024409268,Low,consecutive_inactive_months,Redemption reminder
+955178,0.00063298544,Low,consecutive_inactive_months,Route-specific discount
+905497,0.99721307,High,consecutive_inactive_months,Personalized retention campaign
+699511,0.008909964,Low,consecutive_inactive_months,Regular engagement
+211043,0.0022665511,Low,consecutive_inactive_months,Redemption reminder
+608758,0.0009965008,Low,consecutive_inactive_months,Redemption reminder
+397248,0.008467626,Low,consecutive_inactive_months,Redemption reminder
+330694,0.02495267,Low,consecutive_inactive_months,Redemption reminder
+119200,0.002234083,Low,consecutive_inactive_months,Route-specific discount
+460291,0.0007596905,Low,consecutive_inactive_months,Redemption reminder
+411523,0.0003801327,Low,consecutive_inactive_months,Redemption reminder
+733746,0.0013167164,Low,consecutive_inactive_months,Regular engagement
+128039,0.0007921979,Low,consecutive_inactive_months,Redemption reminder
+528492,0.6545273,Medium,consecutive_inactive_months,Redemption reminder
+530105,0.99166495,High,consecutive_inactive_months,Bonus miles offer
+143784,0.00036995838,Low,consecutive_inactive_months,Redemption reminder
+166712,0.024596049,Low,consecutive_inactive_months,Redemption reminder
+343051,0.005550188,Low,consecutive_inactive_months,Redemption reminder
+746677,0.0005217186,Low,consecutive_inactive_months,Redemption reminder
+627107,0.99793684,High,consecutive_inactive_months,Personalized retention campaign
+114835,0.0011968047,Low,consecutive_inactive_months,Regular engagement
+207372,0.0011668252,Low,consecutive_inactive_months,Route-specific discount
+825593,0.00094669044,Low,consecutive_inactive_months,Redemption reminder
+818391,0.0010781161,Low,consecutive_inactive_months,Regular engagement
+225088,0.00088534795,Low,consecutive_inactive_months,Regular engagement
+788460,0.98116183,High,consecutive_inactive_months,Bonus miles offer
+539358,0.00061083044,Low,consecutive_inactive_months,Redemption reminder
+765252,0.00032922832,Low,consecutive_inactive_months,Redemption reminder
+719633,0.99521685,High,consecutive_inactive_months,Bonus miles offer
+666556,0.003507738,Low,consecutive_inactive_months,Redemption reminder
+271641,0.888169,High,flight_activity_trend,Bonus miles offer
+769623,0.0002624084,Low,consecutive_inactive_months,Redemption reminder
+532925,0.99489635,High,consecutive_inactive_months,Bonus miles offer
+700871,0.0009923489,Low,consecutive_inactive_months,Redemption reminder
+392235,0.0006874743,Low,consecutive_inactive_months,Redemption reminder
+513229,0.0002537951,Low,consecutive_inactive_months,Redemption reminder
+436081,0.000574546,Low,consecutive_inactive_months,Redemption reminder
+688524,0.0021074403,Low,consecutive_inactive_months,Regular engagement
+345608,0.0061877337,Low,consecutive_inactive_months,Route-specific discount
+572410,0.00026777218,Low,consecutive_inactive_months,Redemption reminder
+466147,0.0016493354,Low,consecutive_inactive_months,Regular engagement
+834891,0.996479,High,consecutive_inactive_months,Bonus miles offer
+368830,0.99689424,High,consecutive_inactive_months,Bonus miles offer
+685346,0.00087842235,Low,consecutive_inactive_months,Route-specific discount
+458697,0.0025753165,Low,consecutive_inactive_months,Redemption reminder
+577405,0.00057362294,Low,consecutive_inactive_months,Redemption reminder
+559279,0.0038790873,Low,consecutive_inactive_months,Redemption reminder
+704835,0.017399307,Low,active_month_count,Redemption reminder
+909385,0.00033675096,Low,consecutive_inactive_months,Redemption reminder
+544561,0.0008141948,Low,consecutive_inactive_months,Regular engagement
+514900,0.0024977743,Low,consecutive_inactive_months,Onboarding campaign
+567256,0.0017830499,Low,consecutive_inactive_months,Regular engagement
+671764,0.63969016,Medium,consecutive_inactive_months,Redemption reminder
+556136,0.0008229582,Low,consecutive_inactive_months,Regular engagement
+733693,0.024677578,Low,active_month_count,Redemption reminder
+224402,0.0004195619,Low,consecutive_inactive_months,Redemption reminder
+912220,0.99604887,High,consecutive_inactive_months,Bonus miles offer
+156031,0.9966355,High,consecutive_inactive_months,Bonus miles offer
+834522,0.9974921,High,consecutive_inactive_months,Personalized retention campaign
+713636,0.007016442,Low,active_month_count,Route-specific discount
+950980,0.0011054203,Low,consecutive_inactive_months,Regular engagement
+277649,0.00038254383,Low,consecutive_inactive_months,Regular engagement
+380183,0.00034393455,Low,consecutive_inactive_months,Redemption reminder
+906396,0.005602654,Low,consecutive_inactive_months,Redemption reminder
+406047,0.00016743691,Low,consecutive_inactive_months,Redemption reminder
+458320,0.015337311,Low,flight_activity_trend,Route-specific discount
+995877,0.0007289693,Low,consecutive_inactive_months,Regular engagement
+416768,0.00010733575,Low,consecutive_inactive_months,Redemption reminder
+814653,0.000332345,Low,consecutive_inactive_months,Regular engagement
+784838,0.0030026624,Low,consecutive_inactive_months,Redemption reminder
+800923,0.001962811,Low,consecutive_inactive_months,Route-specific discount
+579005,0.0006078685,Low,consecutive_inactive_months,Redemption reminder
+245465,0.00074137235,Low,consecutive_inactive_months,Redemption reminder
+101663,0.00044153462,Low,consecutive_inactive_months,Redemption reminder
+821325,0.0144254435,Low,consecutive_inactive_months,Route-specific discount
+406574,0.017529946,Low,consecutive_inactive_months,Redemption reminder
+613265,0.0017644924,Low,consecutive_inactive_months,Redemption reminder
+202299,0.003099006,Low,consecutive_inactive_months,Regular engagement
+657339,0.007997518,Low,consecutive_inactive_months,Redemption reminder
+132563,0.9962651,High,consecutive_inactive_months,Personalized retention campaign
+920716,0.005438955,Low,consecutive_inactive_months,Redemption reminder
+695755,0.99634475,High,consecutive_inactive_months,Bonus miles offer
+357549,0.9940958,High,consecutive_inactive_months,Onboarding campaign
+779434,0.00017294037,Low,consecutive_inactive_months,Redemption reminder
+977693,0.008991376,Low,consecutive_inactive_months,Redemption reminder
+710053,0.00017176093,Low,consecutive_inactive_months,Redemption reminder
+231273,0.0009030646,Low,consecutive_inactive_months,Regular engagement
+602694,0.00042963112,Low,consecutive_inactive_months,Regular engagement
+939562,0.00021566811,Low,consecutive_inactive_months,Redemption reminder
+737791,0.0005846967,Low,consecutive_inactive_months,Redemption reminder
+738141,0.0009309749,Low,consecutive_inactive_months,Redemption reminder
+947123,0.99485177,High,consecutive_inactive_months,Bonus miles offer
+601448,0.00036899853,Low,consecutive_inactive_months,Redemption reminder
+936612,0.9975068,High,consecutive_inactive_months,Bonus miles offer
+135808,0.0008043442,Low,consecutive_inactive_months,Redemption reminder
+845275,0.0035725012,Low,consecutive_inactive_months,Redemption reminder
+218529,0.0003695553,Low,consecutive_inactive_months,Regular engagement
+852310,0.0026584424,Low,consecutive_inactive_months,Redemption reminder
+223587,0.00208015,Low,consecutive_inactive_months,Route-specific discount
+174896,0.99602914,High,consecutive_inactive_months,Bonus miles offer
+941194,0.0015890389,Low,consecutive_inactive_months,Onboarding campaign
+557500,0.00028115348,Low,consecutive_inactive_months,Redemption reminder
+526747,0.0002478815,Low,consecutive_inactive_months,Redemption reminder
+654817,0.00038388695,Low,consecutive_inactive_months,Redemption reminder
+336539,0.00235021,Low,consecutive_inactive_months,Redemption reminder
+127128,0.001634665,Low,consecutive_inactive_months,Route-specific discount
+947868,0.00028182764,Low,consecutive_inactive_months,Redemption reminder
+531286,0.001062024,Low,consecutive_inactive_months,Regular engagement
+635225,0.00029256256,Low,consecutive_inactive_months,Redemption reminder
+256323,0.0003754597,Low,consecutive_inactive_months,Redemption reminder
+803796,0.0032538876,Low,consecutive_inactive_months,Regular engagement
+866302,0.0016483471,Low,consecutive_inactive_months,Redemption reminder
+459801,0.0005846541,Low,consecutive_inactive_months,Redemption reminder
+709059,0.071200676,Low,distance_last_3_months,Redemption reminder
+734035,0.0017826214,Low,consecutive_inactive_months,Redemption reminder
+911744,0.008243767,Low,consecutive_inactive_months,Regular engagement
+950914,0.00022832112,Low,consecutive_inactive_months,Redemption reminder
+172755,0.0022638654,Low,consecutive_inactive_months,Redemption reminder
+872932,0.0007536738,Low,consecutive_inactive_months,Redemption reminder
+529218,0.00046315623,Low,consecutive_inactive_months,Redemption reminder
+493677,0.00050057203,Low,consecutive_inactive_months,Redemption reminder
+655044,0.0002652738,Low,consecutive_inactive_months,Regular engagement
+137845,0.00041139152,Low,consecutive_inactive_months,Redemption reminder
+513000,0.001185005,Low,consecutive_inactive_months,Regular engagement
+662934,0.06901979,Low,consecutive_inactive_months,Redemption reminder
+431277,0.0008149955,Low,consecutive_inactive_months,Route-specific discount
+413741,0.012260467,Low,active_month_count,Redemption reminder
+479872,0.0016753983,Low,consecutive_inactive_months,Redemption reminder
+428590,0.9954946,High,consecutive_inactive_months,Onboarding campaign
+136547,0.00024550426,Low,consecutive_inactive_months,Redemption reminder
+626326,0.99583024,High,consecutive_inactive_months,Bonus miles offer
+460207,0.0003504379,Low,consecutive_inactive_months,Redemption reminder
+211714,0.00095910334,Low,consecutive_inactive_months,Regular engagement
+304944,0.0006891116,Low,consecutive_inactive_months,Redemption reminder
+917972,0.005838228,Low,consecutive_inactive_months,Route-specific discount
+530508,0.0011924914,Low,consecutive_inactive_months,Redemption reminder
+976513,0.00052660226,Low,consecutive_inactive_months,Redemption reminder
+436498,0.9962186,High,consecutive_inactive_months,Bonus miles offer
+873180,0.870145,High,active_month_count,Bonus miles offer
+287593,0.0005062929,Low,consecutive_inactive_months,Route-specific discount
+993350,0.9973967,High,consecutive_inactive_months,Bonus miles offer
+595325,0.018041387,Low,consecutive_inactive_months,Redemption reminder
+827288,0.036059413,Low,consecutive_inactive_months,Regular engagement
+162013,0.0014178704,Low,consecutive_inactive_months,Regular engagement
+919506,0.00048702778,Low,consecutive_inactive_months,Onboarding campaign
+410384,0.0012085014,Low,consecutive_inactive_months,Redemption reminder
+400702,0.98762834,High,consecutive_inactive_months,Personalized retention campaign
+230908,0.03235299,Low,flight_activity_trend,Redemption reminder
+705589,0.00077386375,Low,consecutive_inactive_months,Redemption reminder
+780944,0.003464584,Low,consecutive_inactive_months,Redemption reminder
+753149,0.000457127,Low,consecutive_inactive_months,Route-specific discount
+295929,0.0008057688,Low,consecutive_inactive_months,Route-specific discount
+462077,0.001851595,Low,consecutive_inactive_months,Route-specific discount
+413185,0.00078463496,Low,consecutive_inactive_months,Redemption reminder
+820187,0.9973859,High,consecutive_inactive_months,Personalized retention campaign
+650445,0.00044327887,Low,consecutive_inactive_months,Redemption reminder
+606076,0.9946414,High,consecutive_inactive_months,Onboarding campaign
+766335,0.08551663,Low,consecutive_inactive_months,Redemption reminder
+723262,0.0007094226,Low,consecutive_inactive_months,Onboarding campaign
+438120,0.013649843,Low,consecutive_inactive_months,Route-specific discount
+824259,0.00085001317,Low,consecutive_inactive_months,Redemption reminder
+750776,0.9953432,High,consecutive_inactive_months,Bonus miles offer
+135382,0.00054706534,Low,consecutive_inactive_months,Redemption reminder
+203258,0.9978005,High,consecutive_inactive_months,Personalized retention campaign
+546758,0.008421498,Low,consecutive_inactive_months,Redemption reminder
+369458,0.002751474,Low,consecutive_inactive_months,Route-specific discount
+908006,0.010895075,Low,consecutive_inactive_months,Redemption reminder
+876006,0.00068690063,Low,consecutive_inactive_months,Redemption reminder
+667767,0.0010509319,Low,consecutive_inactive_months,Regular engagement
+342738,0.9978005,High,consecutive_inactive_months,Personalized retention campaign
+201574,0.9963199,High,consecutive_inactive_months,Bonus miles offer
+249224,0.0022120052,Low,consecutive_inactive_months,Redemption reminder
+994377,0.0004867354,Low,consecutive_inactive_months,Redemption reminder
+846374,0.002872805,Low,consecutive_inactive_months,Redemption reminder
+649089,0.011263232,Low,consecutive_inactive_months,Redemption reminder
+471440,0.00405757,Low,consecutive_inactive_months,Regular engagement
+326905,0.008553606,Low,consecutive_inactive_months,Redemption reminder
+849415,0.006973417,Low,active_month_count,Regular engagement
+715764,0.0019752975,Low,consecutive_inactive_months,Route-specific discount
+311943,0.0016993661,Low,consecutive_inactive_months,Route-specific discount
+968764,0.0062685627,Low,consecutive_inactive_months,Redemption reminder
+761007,0.99496245,High,consecutive_inactive_months,Bonus miles offer
+333621,0.00054745266,Low,consecutive_inactive_months,Route-specific discount
+203550,0.0004899225,Low,consecutive_inactive_months,Regular engagement
+986825,0.0016232615,Low,consecutive_inactive_months,Regular engagement
+390719,0.99573493,High,consecutive_inactive_months,Bonus miles offer
+723390,0.99342644,High,consecutive_inactive_months,Bonus miles offer
+758635,0.0014737135,Low,consecutive_inactive_months,Regular engagement
+733338,0.997092,High,consecutive_inactive_months,Bonus miles offer
+791355,0.001402728,Low,consecutive_inactive_months,Redemption reminder
+275413,0.0023986516,Low,consecutive_inactive_months,Redemption reminder
+785836,0.0004596241,Low,consecutive_inactive_months,Redemption reminder
+271660,0.017636953,Low,active_month_count,Route-specific discount
+502592,0.0002844694,Low,consecutive_inactive_months,Regular engagement
+929701,0.0014395755,Low,consecutive_inactive_months,Redemption reminder
+564201,0.013654588,Low,consecutive_inactive_months,Regular engagement
+517612,0.9958462,High,consecutive_inactive_months,Bonus miles offer
+597897,0.00044991376,Low,consecutive_inactive_months,Regular engagement
+510372,0.004333563,Low,consecutive_inactive_months,Onboarding campaign
+348920,0.0010143119,Low,consecutive_inactive_months,Regular engagement
+141497,0.48651418,Medium,active_month_count,Redemption reminder
+842064,0.9957065,High,consecutive_inactive_months,Bonus miles offer
+773293,0.00017007937,Low,consecutive_inactive_months,Regular engagement
+674637,0.0023296834,Low,consecutive_inactive_months,Redemption reminder
+444686,0.00036252735,Low,consecutive_inactive_months,Redemption reminder
+405597,0.0015089896,Low,consecutive_inactive_months,Regular engagement
+513081,0.001674444,Low,consecutive_inactive_months,Route-specific discount
+285484,0.026170185,Low,active_month_count,Route-specific discount
+148299,0.0008973103,Low,consecutive_inactive_months,Route-specific discount
+620465,0.018834205,Low,consecutive_inactive_months,Redemption reminder
+410982,0.0009892399,Low,consecutive_inactive_months,Redemption reminder
+746060,0.001821484,Low,consecutive_inactive_months,Redemption reminder
+596004,0.0003803252,Low,consecutive_inactive_months,Redemption reminder
+815207,0.17595936,Low,consecutive_inactive_months,Redemption reminder
+966117,0.00035832185,Low,consecutive_inactive_months,Route-specific discount
+864324,0.006827882,Low,consecutive_inactive_months,Redemption reminder
+257575,0.00089813274,Low,consecutive_inactive_months,Regular engagement
+728748,0.004011501,Low,consecutive_inactive_months,Route-specific discount
+800075,0.00035699343,Low,consecutive_inactive_months,Redemption reminder
+685792,0.99531907,High,consecutive_inactive_months,Bonus miles offer
+176885,0.99648476,High,consecutive_inactive_months,Bonus miles offer
+241167,0.000112130336,Low,consecutive_inactive_months,Redemption reminder
+798216,0.00013553242,Low,consecutive_inactive_months,Route-specific discount
+748286,0.9973857,High,consecutive_inactive_months,Personalized retention campaign
+610393,0.00059052464,Low,consecutive_inactive_months,Regular engagement
+236300,0.99574924,High,consecutive_inactive_months,Bonus miles offer
+673061,0.9954711,High,consecutive_inactive_months,Bonus miles offer
+685982,0.0043805125,Low,consecutive_inactive_months,Redemption reminder
+881157,0.00025205043,Low,consecutive_inactive_months,Redemption reminder
+782523,0.003382629,Low,consecutive_inactive_months,Onboarding campaign
+623688,0.025948305,Low,consecutive_inactive_months,Redemption reminder
+120613,0.0004249952,Low,consecutive_inactive_months,Regular engagement
+930584,0.0011435928,Low,consecutive_inactive_months,Redemption reminder
+322102,0.9966221,High,consecutive_inactive_months,Bonus miles offer
+110262,0.0071483473,Low,consecutive_inactive_months,Redemption reminder
+871329,0.99552333,High,consecutive_inactive_months,Bonus miles offer
+288419,0.00082250865,Low,consecutive_inactive_months,Redemption reminder
+111171,0.0004444543,Low,consecutive_inactive_months,Redemption reminder
+972581,0.0017757964,Low,consecutive_inactive_months,Route-specific discount
+290517,0.99523383,High,consecutive_inactive_months,Onboarding campaign
+650290,0.99641055,High,consecutive_inactive_months,Personalized retention campaign
+395026,0.0004391611,Low,consecutive_inactive_months,Redemption reminder
+188340,0.0009331142,Low,consecutive_inactive_months,Redemption reminder
+480934,0.0006019991,Low,consecutive_inactive_months,Redemption reminder
+866307,0.0010984328,Low,consecutive_inactive_months,Redemption reminder
+791852,0.001617041,Low,consecutive_inactive_months,Redemption reminder
+222960,0.015291105,Low,flight_activity_trend,Route-specific discount
+588237,0.009836932,Low,consecutive_inactive_months,Regular engagement
+430712,0.9344278,High,active_month_count,Personalized retention campaign
+147898,0.0005206989,Low,consecutive_inactive_months,Redemption reminder
+752331,0.00047775227,Low,consecutive_inactive_months,Redemption reminder
+456752,0.0010464261,Low,consecutive_inactive_months,Regular engagement
+863122,0.0005070057,Low,consecutive_inactive_months,Regular engagement
+370450,0.00068727654,Low,consecutive_inactive_months,Redemption reminder
+887192,0.00039379759,Low,consecutive_inactive_months,Regular engagement
+651054,0.0042780926,Low,consecutive_inactive_months,Route-specific discount
+181825,0.0003399508,Low,consecutive_inactive_months,Redemption reminder
+692304,0.0029597753,Low,consecutive_inactive_months,Redemption reminder
+503598,0.0013371228,Low,consecutive_inactive_months,Regular engagement
+945479,0.0014561899,Low,consecutive_inactive_months,Redemption reminder
+336341,0.00041689447,Low,consecutive_inactive_months,Redemption reminder
+887705,0.9969516,High,consecutive_inactive_months,Personalized retention campaign
+936723,0.9958014,High,consecutive_inactive_months,Bonus miles offer
+438023,0.0008232417,Low,consecutive_inactive_months,Regular engagement
+878909,0.0018796374,Low,consecutive_inactive_months,Redemption reminder
+263729,0.9945267,High,consecutive_inactive_months,Bonus miles offer
+446315,0.9795675,High,consecutive_inactive_months,Personalized retention campaign
+206992,0.00043962558,Low,consecutive_inactive_months,Redemption reminder
+521311,0.00028121515,Low,consecutive_inactive_months,Redemption reminder
+982202,0.00069893873,Low,consecutive_inactive_months,Regular engagement
+317001,0.0007644428,Low,consecutive_inactive_months,Onboarding campaign
+273353,0.0006638966,Low,consecutive_inactive_months,Regular engagement
+833765,0.0026768248,Low,consecutive_inactive_months,Regular engagement
+546039,0.0007902989,Low,consecutive_inactive_months,Regular engagement
+374345,0.00032139977,Low,consecutive_inactive_months,Redemption reminder
+348299,0.9949988,High,consecutive_inactive_months,Bonus miles offer
+676676,0.9958209,High,consecutive_inactive_months,Bonus miles offer
+130326,0.0013487893,Low,consecutive_inactive_months,Route-specific discount
+219413,0.00020641301,Low,consecutive_inactive_months,Redemption reminder
+359188,0.9979234,High,consecutive_inactive_months,Personalized retention campaign
+516329,0.000201213,Low,consecutive_inactive_months,Redemption reminder
+432598,0.0015936072,Low,consecutive_inactive_months,Redemption reminder
+971902,0.99592197,High,consecutive_inactive_months,Bonus miles offer
+708373,0.0010990237,Low,consecutive_inactive_months,Regular engagement
+170585,0.0008619406,Low,consecutive_inactive_months,Redemption reminder
+869743,0.99612516,High,consecutive_inactive_months,Bonus miles offer
+246775,0.0044304957,Low,consecutive_inactive_months,Regular engagement
+908729,0.000455335,Low,consecutive_inactive_months,Route-specific discount
+472521,0.0020554936,Low,consecutive_inactive_months,Redemption reminder
+228580,0.00032320316,Low,consecutive_inactive_months,Regular engagement
+638368,0.0012411334,Low,consecutive_inactive_months,Redemption reminder
+204042,0.00026324458,Low,consecutive_inactive_months,Regular engagement
+216467,0.0007669188,Low,consecutive_inactive_months,Route-specific discount
+869799,0.0032100407,Low,consecutive_inactive_months,Route-specific discount
+793318,0.0023708853,Low,consecutive_inactive_months,Redemption reminder
+601407,0.0006723195,Low,consecutive_inactive_months,Redemption reminder
+142290,0.0043745893,Low,consecutive_inactive_months,Redemption reminder
+508443,0.99756384,High,consecutive_inactive_months,Personalized retention campaign
+490984,0.00026598925,Low,consecutive_inactive_months,Redemption reminder
+906623,0.00073803036,Low,consecutive_inactive_months,Redemption reminder
+186015,0.0030906952,Low,consecutive_inactive_months,Redemption reminder
+329587,0.000909591,Low,consecutive_inactive_months,Redemption reminder
+842236,0.00082081783,Low,consecutive_inactive_months,Redemption reminder
+532813,0.007298776,Low,consecutive_inactive_months,Redemption reminder
+404426,0.00026948634,Low,consecutive_inactive_months,Regular engagement
+265836,0.00062552583,Low,consecutive_inactive_months,Regular engagement
+482256,0.006256114,Low,consecutive_inactive_months,Redemption reminder
+692097,0.9966961,High,consecutive_inactive_months,Personalized retention campaign
+566343,0.9967918,High,consecutive_inactive_months,Bonus miles offer
+440967,0.00027017994,Low,consecutive_inactive_months,Regular engagement
+502534,0.00020525765,Low,consecutive_inactive_months,Redemption reminder
+998090,0.006395786,Low,flight_activity_trend,Route-specific discount
+263080,0.0013807063,Low,consecutive_inactive_months,Regular engagement
+530978,0.0063307243,Low,consecutive_inactive_months,Redemption reminder
+283747,0.006139349,Low,consecutive_inactive_months,Redemption reminder
+127400,0.003276623,Low,consecutive_inactive_months,Route-specific discount
+430228,0.0003571245,Low,consecutive_inactive_months,Redemption reminder
+467182,0.5913143,Medium,flight_activity_trend,Redemption reminder
+890753,0.0046352325,Low,consecutive_inactive_months,Route-specific discount
+133324,0.0022190602,Low,consecutive_inactive_months,Redemption reminder
+134717,0.03249707,Low,consecutive_inactive_months,Redemption reminder
+244032,0.00065751985,Low,consecutive_inactive_months,Redemption reminder
+553936,0.9939182,High,consecutive_inactive_months,Bonus miles offer
+268128,0.0030148106,Low,consecutive_inactive_months,Redemption reminder
+958224,0.00047311748,Low,consecutive_inactive_months,Redemption reminder
+238119,0.0010441083,Low,consecutive_inactive_months,Redemption reminder
+742002,0.004955584,Low,consecutive_inactive_months,Redemption reminder
+654890,0.0012551759,Low,consecutive_inactive_months,Redemption reminder
+923293,0.0015789587,Low,consecutive_inactive_months,Redemption reminder
+780631,0.00076129497,Low,consecutive_inactive_months,Onboarding campaign
+521384,0.0009590326,Low,consecutive_inactive_months,Redemption reminder
+830024,0.001214627,Low,consecutive_inactive_months,Route-specific discount
+709550,0.0064264764,Low,consecutive_inactive_months,Redemption reminder
+127590,0.00027102695,Low,consecutive_inactive_months,Redemption reminder
+198424,0.0005749018,Low,consecutive_inactive_months,Redemption reminder
+289177,0.00027255865,Low,consecutive_inactive_months,Route-specific discount
+355331,0.0022185377,Low,consecutive_inactive_months,Redemption reminder
+344180,0.00074979255,Low,consecutive_inactive_months,Route-specific discount
+812282,0.00071695383,Low,consecutive_inactive_months,Redemption reminder
+481450,0.0013941056,Low,consecutive_inactive_months,Onboarding campaign
+639510,0.0018157449,Low,consecutive_inactive_months,Redemption reminder
+529098,0.0011813934,Low,consecutive_inactive_months,Route-specific discount
+161437,0.00034779197,Low,consecutive_inactive_months,Redemption reminder
+999143,0.99643433,High,consecutive_inactive_months,Bonus miles offer
+226176,0.99778783,High,consecutive_inactive_months,Personalized retention campaign
+450979,0.0004006044,Low,consecutive_inactive_months,Redemption reminder
+757634,0.0004929009,Low,consecutive_inactive_months,Redemption reminder
+582861,0.0005326145,Low,consecutive_inactive_months,Regular engagement
+484718,0.0026398418,Low,consecutive_inactive_months,Redemption reminder
+945014,0.0032665783,Low,consecutive_inactive_months,Redemption reminder
+352834,0.00028779506,Low,consecutive_inactive_months,Redemption reminder
+508854,0.0035522408,Low,consecutive_inactive_months,Redemption reminder
+747304,0.00053684996,Low,consecutive_inactive_months,Regular engagement
+202585,0.0013502166,Low,consecutive_inactive_months,Regular engagement
+324707,0.0005666831,Low,consecutive_inactive_months,Route-specific discount
+144514,0.005430517,Low,consecutive_inactive_months,Route-specific discount
+164429,0.00063452474,Low,consecutive_inactive_months,Redemption reminder
+251116,0.9970637,High,consecutive_inactive_months,Bonus miles offer
+372183,0.00044912577,Low,consecutive_inactive_months,Regular engagement
+290249,0.0006940253,Low,consecutive_inactive_months,Redemption reminder
+217284,0.99583495,High,consecutive_inactive_months,Bonus miles offer
+801821,0.00051424705,Low,consecutive_inactive_months,Route-specific discount
+590301,0.0014936976,Low,consecutive_inactive_months,Regular engagement
+426185,0.00021356964,Low,consecutive_inactive_months,Redemption reminder
+201220,0.00029589393,Low,consecutive_inactive_months,Redemption reminder
+241038,0.0006001579,Low,consecutive_inactive_months,Redemption reminder
+517758,0.00064405194,Low,consecutive_inactive_months,Redemption reminder
+639383,0.0004444007,Low,consecutive_inactive_months,Onboarding campaign
+982608,0.99501437,High,consecutive_inactive_months,Bonus miles offer
+965066,0.9942391,High,consecutive_inactive_months,Bonus miles offer
+329382,0.9968258,High,consecutive_inactive_months,Bonus miles offer
+845864,0.0012882444,Low,consecutive_inactive_months,Redemption reminder
+591608,0.00024133908,Low,consecutive_inactive_months,Redemption reminder
+238233,0.00023599244,Low,consecutive_inactive_months,Regular engagement
+667687,0.0007054446,Low,consecutive_inactive_months,Onboarding campaign
+983524,0.0028246294,Low,consecutive_inactive_months,Redemption reminder
+948404,0.0067610648,Low,active_month_count,Route-specific discount
+642109,0.0013254163,Low,consecutive_inactive_months,Redemption reminder
+845613,0.0022837082,Low,consecutive_inactive_months,Onboarding campaign
+655743,0.0010924892,Low,consecutive_inactive_months,Redemption reminder
+878633,0.005441009,Low,consecutive_inactive_months,Redemption reminder
+989048,0.00046144178,Low,consecutive_inactive_months,Redemption reminder
+746226,0.0021149504,Low,consecutive_inactive_months,Regular engagement
+302509,0.00031952054,Low,consecutive_inactive_months,Regular engagement
+831087,0.0003792578,Low,consecutive_inactive_months,Redemption reminder
+413445,0.9958307,High,consecutive_inactive_months,Bonus miles offer
+855602,0.0032828348,Low,consecutive_inactive_months,Redemption reminder
+109767,0.0009515882,Low,consecutive_inactive_months,Redemption reminder
+738427,0.0018166776,Low,consecutive_inactive_months,Redemption reminder
+192096,0.0018976253,Low,consecutive_inactive_months,Onboarding campaign
+819569,0.00030034737,Low,consecutive_inactive_months,Redemption reminder
+308379,0.0015357536,Low,consecutive_inactive_months,Redemption reminder
+445867,0.007978784,Low,consecutive_inactive_months,Regular engagement
+469977,0.00022853827,Low,consecutive_inactive_months,Redemption reminder
+622269,0.9970372,High,consecutive_inactive_months,Bonus miles offer
+879600,0.9971615,High,consecutive_inactive_months,Personalized retention campaign
+837628,0.00041701036,Low,consecutive_inactive_months,Regular engagement
+464471,0.9949955,High,consecutive_inactive_months,Bonus miles offer
+585357,0.009285781,Low,flight_activity_trend,Redemption reminder
+556492,0.0039694277,Low,consecutive_inactive_months,Redemption reminder
+182587,0.9888043,High,consecutive_inactive_months,Personalized retention campaign
+437022,0.00041526626,Low,consecutive_inactive_months,Redemption reminder
+326561,0.99454224,High,consecutive_inactive_months,Bonus miles offer
+264936,0.00033556359,Low,consecutive_inactive_months,Regular engagement
+870998,0.0004529702,Low,consecutive_inactive_months,Redemption reminder
+612905,0.0009195388,Low,consecutive_inactive_months,Regular engagement
+306402,0.0005092832,Low,consecutive_inactive_months,Redemption reminder
+159275,0.001221904,Low,consecutive_inactive_months,Redemption reminder
+493427,0.0005143552,Low,consecutive_inactive_months,Redemption reminder
+633999,0.006208817,Low,consecutive_inactive_months,Route-specific discount
+270570,0.00050358346,Low,consecutive_inactive_months,Redemption reminder
+599341,0.0022419004,Low,consecutive_inactive_months,Redemption reminder
+861924,0.00038359483,Low,consecutive_inactive_months,Route-specific discount
+821404,0.010352947,Low,active_month_count,Route-specific discount
+988178,0.0023345295,Low,consecutive_inactive_months,Redemption reminder
+205445,0.0005572198,Low,consecutive_inactive_months,Redemption reminder
+197529,0.9948108,High,consecutive_inactive_months,Onboarding campaign
+726732,0.995846,High,consecutive_inactive_months,Bonus miles offer
+173212,0.0034036506,Low,consecutive_inactive_months,Regular engagement
+917630,0.0044766176,Low,consecutive_inactive_months,Regular engagement
+567875,0.003537644,Low,consecutive_inactive_months,Regular engagement
+884530,0.0007674756,Low,consecutive_inactive_months,Regular engagement
+712114,0.0023650685,Low,consecutive_inactive_months,Redemption reminder
+654748,0.9974074,High,consecutive_inactive_months,Bonus miles offer
+258358,0.9963194,High,consecutive_inactive_months,Bonus miles offer
+630320,0.0005181076,Low,consecutive_inactive_months,Redemption reminder
+446968,0.99519676,High,consecutive_inactive_months,Bonus miles offer
+631821,0.0006393995,Low,consecutive_inactive_months,Redemption reminder
+117408,0.044283435,Low,consecutive_inactive_months,Redemption reminder
+397518,0.90659326,High,active_month_count,Bonus miles offer
+981848,0.00064319535,Low,consecutive_inactive_months,Redemption reminder
